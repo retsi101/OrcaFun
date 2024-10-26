@@ -24,8 +24,8 @@
 //
 
 //I decided I'll never be completely satisfied with this thing
-//because turns out if you don't know math and physics like me you'll 
-//struggle to make this type of creature movement look organic/convincing.
+//because turns out if you don't know math and physics, you're bound to struggle
+//to make this type of creature movement look organic/convincing.
 //So... consider this an eternal work in progress, god dang it. Have fun.
 
 import * as Three from "three"
